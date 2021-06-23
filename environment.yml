@@ -1,6 +1,6 @@
 name: skimtut
 dependencies:
   - python>=3.8
-  - skimage
+  - scikit-image
   - numpy
   - matplotlib
